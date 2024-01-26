@@ -120,7 +120,6 @@ a {
   line-height: 1.07;
   letter-spacing: 0.02em;
   max-width: 496px;
-  padding-top: 188px;
   margin: auto;
   margin-bottom: 48px;
 }
@@ -168,8 +167,6 @@ a {
   display: flex;
   align-items: center;
   gap: 24px;
-  padding-top: 120px;
-  padding-bottom: 120px;
 }
 .title-list {
   color: #2e2f42;
