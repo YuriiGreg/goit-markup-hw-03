@@ -135,7 +135,7 @@ a {
   min-width: 169px;
   border-radius: 4px;
   padding: 16px 32px;
-  margin-left: 474px;
+  margin: 0 auto;
   display: block;
   gap: 10px;
   border: none;
